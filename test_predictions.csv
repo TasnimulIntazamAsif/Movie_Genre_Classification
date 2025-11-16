@@ -1,0 +1,2001 @@
+movie_id,title,predicted_genreids
+529,The Theory of Everything,"18, 35"
+3549,The Invisibles,18
+7536,A Haunted House 2,No genres predicted
+5086,Mosul,"18, 28"
+3452,Letters to Juliet,18
+973,The Kissing Booth 2,"18, 35, 10749"
+5385,U Turn,"18, 53"
+3954,The Horse Whisperer,18
+4041,Horizon: An American Saga - Chapter 1,18
+5298,Dora and the Lost City of Gold,"12, 35, 10751"
+9169,The Messengers,No genres predicted
+6174,Freeway,No genres predicted
+525,See You Up There,No genres predicted
+5572,Lady Macbeth,No genres predicted
+9745,The Late Bloomer,"18, 35"
+1797,Red Desert,18
+646,Tune in for Love,"18, 35"
+2727,Casualties of War,"18, 28, 10752"
+7570,Just My Luck,No genres predicted
+5358,Midway,"18, 28, 10752"
+2621,Our Friend,18
+5159,Keeping Mum,18
+7620,Our Idiot Brother,No genres predicted
+6852,My Summer in Provence,18
+3037,Love Tactics,"35, 10749"
+6756,Pride and Glory,"18, 80"
+4171,How to Lose a Guy in 10 Days,35
+4221,Riki-Oh: The Story of Ricky,80
+3427,Gorillas in the Mist,No genres predicted
+1864,Tinker Bell and the Legend of the NeverBeast,No genres predicted
+2427,The Message,18
+6957,Shrek the Third,"12, 14, 16"
+6090,The Ramen Girl,18
+6812,A Walk Among the Tombstones,"28, 53, 80"
+5482,Hot Shots!,18
+9488,Fun Size,35
+262,"Toto, Peppino, and the Hussy",No genres predicted
+4870,Elizabeth: The Golden Age,18
+6340,I Love You Phillip Morris,18
+6129,Spell,No genres predicted
+907,Hunt for the Wilderpeople,No genres predicted
+5394,A Christmas Prince,35
+3130,The Addams Family,18
+5077,"Me, Myself and Mum",18
+105,Justice League Dark: Apokolips War,"28, 878"
+7630,Pink Flamingos,No genres predicted
+5227,Absolute Power,"18, 53"
+5126,The Lego Movie 2: The Second Part,No genres predicted
+9992,Blair Witch,No genres predicted
+607,L.A. Confidential,53
+7771,The Philadelphia Experiment,18
+2902,Terms of Endearment,"18, 10749"
+7605,The Texas Chainsaw Massacre: The Beginning,18
+8962,Vox Lux,18
+2429,Invasion of the Body Snatchers,No genres predicted
+9394,Our House,18
+2534,Doubt,18
+546,The Marquis of Grillo,18
+5144,Of Gods and Men,No genres predicted
+6988,The Devil's Candy,No genres predicted
+2773,The Christmas Chronicles,"35, 10751"
+880,Rurouni Kenshin: The Beginning,No genres predicted
+5374,[REC]²,No genres predicted
+2989,United 93,18
+3328,The Last Black Man in San Francisco,No genres predicted
+2233,"Crazy, Stupid, Love.","18, 35"
+2814,Brigsby Bear,35
+8092,The Wizard,No genres predicted
+3469,Toy Story That Time Forgot,35
+7689,The Outcasts,35
+7367,Night of the Comet,27
+9871,Gotti,"18, 53, 80"
+3133,The Barbarian Invasions,No genres predicted
+254,My Name Is Khan,18
+7585,The Hunted,18
+1424,Spread Your Wings,No genres predicted
+3379,The Dead Zone,18
+5409,EuroTrip,35
+4506,The Fugitives,35
+1944,Unlocked,18
+5103,Haunt,"27, 53"
+6850,The Many Saints of Newark,18
+7915,Men,18
+1761,Only Yesterday,18
+5847,Orion and the Dark,No genres predicted
+3963,Kiss of the Dragon,"28, 53, 80"
+2382,The Lady Eve,"18, 35, 10749"
+7066,Monkey Shines,No genres predicted
+9890,The Titan,"28, 878"
+888,Lucky and Zorba,No genres predicted
+9653,Big Game,No genres predicted
+8138,Ong Bak 3,No genres predicted
+6103,In the Land of Saints and Sinners,No genres predicted
+6575,Kingdoms,"18, 35, 10749"
+7624,Wakefield,18
+8238,The Tall Man,No genres predicted
+9793,Maggie,No genres predicted
+956,Fitzcarraldo,35
+4269,Frozen Fever,35
+7221,Don't Hang Up,No genres predicted
+7470,The Interview,35
+9621,Women Vs Men,18
+7024,Tomorrowland,No genres predicted
+9089,Husk,27
+864,Cléo from 5 to 7,18
+3590,The Good Boss,No genres predicted
+2293,Suite Française,18
+5355,Space Pirate Captain Harlock,"12, 878"
+3051,The Big Boss,No genres predicted
+2996,Witness,53
+5801,The Company Men,18
+1115,Casino Royale,"28, 53"
+7414,3 Men and a Baby,35
+667,Words on Bathroom Walls,"18, 10749"
+5008,The Good Liar,18
+6806,Resolution,No genres predicted
+324,The Red Shoes,"18, 10749"
+2836,Shiva Baby,35
+1357,In Cold Blood,"18, 53, 80"
+11,The Lord of the Rings: The Return of the King,"12, 14, 28"
+7408,In Her Shoes,18
+6242,The Perfect Date,35
+4759,Apocalypse Z: The Beginning of the End,No genres predicted
+3462,The Hunger Games: The Ballad of Songbirds & Snakes,18
+2378,The Vow,"18, 35, 10749"
+8834,Dom Hemingway,No genres predicted
+9598,The Numbers Station,"28, 53"
+5130,The Odyssey,18
+7295,Nick of Time,53
+8732,The Wolfman,18
+9416,You Get Me,35
+4002,Heartbreak Ridge,"18, 35"
+6626,Miller's Girl,18
+8975,The Atticus Institute,No genres predicted
+4618,Only You,"18, 35"
+463,Ron's Gone Wrong,35
+7137,Ride Along,No genres predicted
+1039,Battleship Potemkin,18
+8663,Rogue City,"28, 80"
+2760,The Substance,35
+7317,(T)Raumschiff Surprise - Periode 1,"12, 28, 878"
+9076,The Gunman,53
+830,"Germany, Year Zero",18
+5184,The Student and Mister Henri,18
+4625,Party Central,35
+4570,Tully,No genres predicted
+2290,Frequency,18
+7797,Gothika,No genres predicted
+8015,The F**k-It List,35
+927,Viridiana,No genres predicted
+6186,Flightplan,No genres predicted
+3391,Nerve,No genres predicted
+9509,Random Hearts,No genres predicted
+8990,Saludos Amigos,35
+4986,Monster House,No genres predicted
+7592,S.W.A.T.,"28, 80"
+7523,The Art of the Steal,35
+7238,Rebel Moon - Part One: A Child of Fire,No genres predicted
+746,The Breakfast Club,"18, 35"
+5235,Ambulance,"18, 53, 80"
+3247,Before the Fall,18
+8221,The Fifth Estate,18
+5858,Apt Pupil,18
+2503,War for the Planet of the Apes,"12, 28"
+5936,Spectral,28
+9171,The Contract,53
+6643,Return,"18, 35"
+3109,Godzilla: Final Wars,"28, 878"
+6117,G.I. Jane,18
+1487,A Quiet Place Part II,No genres predicted
+8065,The Distinguished Gentleman,No genres predicted
+5368,There's Something About Mary,35
+4229,The Best Is Yet to Come,35
+9537,Killing Me Softly,"18, 53"
+8964,Trainwreck,35
+4000,Three Thousand Years of Longing,No genres predicted
+6529,A Christmas Prince: The Royal Wedding,35
+2119,Battle for Sevastopol,18
+8880,Chopping Mall,No genres predicted
+3292,Luxo Jr.,35
+1469,Mirage,No genres predicted
+5540,The Boss of It All,35
+4549,Justice League vs. the Fatal Five,28
+9824,Serving Sara,"18, 35"
+7147,Shortbus,18
+2008,Belle de Jour,18
+3163,Top Gun,18
+294,Lawrence of Arabia,No genres predicted
+3457,Husbands and Wives,35
+5002,Yesterday,878
+4141,Spirited,No genres predicted
+1237,The Manchurian Candidate,No genres predicted
+1541,Mission: Impossible - Fallout,28
+610,Harry Potter and the Goblet of Fire,No genres predicted
+2713,Sissi: The Fateful Years of an Empress,18
+7589,Welcome Mr. President!,18
+51,The Legend of Hei,No genres predicted
+9671,Extraterrestrial,27
+8991,88 Minutes,"53, 80"
+1507,Fabrizio De André: Principe libero,18
+8685,Winchester,No genres predicted
+9273,Battle for the Planet of the Apes,"28, 878"
+3792,Boris: The Film,35
+1504,Miller's Crossing,18
+1350,"To Sir, with Love",18
+6296,The River Wild,No genres predicted
+137,Tokyo Story,18
+5833,Into the Night,No genres predicted
+6024,City Hunter,35
+9591,The Rezort,27
+4154,Kill Boksoon,35
+5570,The Killer,No genres predicted
+943,All the Bright Places,18
+8929,The Perfect Score,35
+2856,Polytechnique,No genres predicted
+3225,A Good Person,"18, 10749"
+6970,What a Girl Wants,"18, 35, 10749"
+5302,New Jack City,"35, 80"
+9353,Kill Command,"28, 53"
+9938,The Adventures of André and Wally B.,No genres predicted
+8866,Priest,28
+1970,The Big Sick,18
+9554,Camping,No genres predicted
+5240,Half Nelson,18
+4328,A Gang Story,18
+4894,Guava Island,"18, 35"
+1502,Peaceful Warrior,"18, 35"
+5945,Subway,35
+2590,Limitless,No genres predicted
+2069,Scooby-Doo! and the Cyber Chase,"28, 53"
+4810,Long Shot,"18, 35"
+3581,The Baader Meinhof Complex,18
+8660,The Solitude of Prime Numbers,No genres predicted
+6368,Shanghai Noon,No genres predicted
+1593,Iron Monkey,28
+7272,Death Warrant,No genres predicted
+9983,Animal Kingdom: Let's Go Ape,18
+2541,The Unknown Woman,No genres predicted
+89,Life in a Year,18
+4693,Tinker Bell and the Great Fairy Rescue,No genres predicted
+7206,The Meg,No genres predicted
+6501,The Final Girls,No genres predicted
+4520,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,18
+8780,It Comes at Night,No genres predicted
+1006,Avatar: The Way of Water,No genres predicted
+6400,Thunderbolt,"28, 53"
+8668,Legion,28
+8439,Alpha and Omega,35
+7193,Follow Me,18
+9529,Down a Dark Hall,18
+1669,Creed,18
+4094,Noroi: The Curse,No genres predicted
+43,Gabriel's Inferno: Part II,"18, 10749"
+214,All About Eve,18
+7175,Death Wish II,18
+4633,White Fang,"12, 35"
+4152,Spaceballs,No genres predicted
+6267,Dragon Ball Z: The Return of Cooler,No genres predicted
+545,Elite Squad: The Enemy Within,No genres predicted
+232,Elite Squad,No genres predicted
+9042,Cry_Wolf,"27, 53"
+9917,Shut In,"18, 53"
+8089,Hotel for Dogs,35
+3531,The Kings of Summer,35
+7104,The Cell,53
+2637,Wonder Woman,"12, 18"
+6803,Meet the Feebles,No genres predicted
+9612,The Oranges,18
+6630,National Treasure: Book of Secrets,No genres predicted
+2118,The Equalizer 3,53
+3823,Common Wealth,No genres predicted
+6672,High Crimes,"18, 53"
+1172,Police Story,"18, 28, 80"
+7541,Belle's Magical World,No genres predicted
+7354,The Inbetweeners Movie,35
+5808,The Fast and the Furious: Tokyo Drift,No genres predicted
+6902,The Secret Life of Pets,35
+9869,Lolo,"18, 35"
+9205,The Turning,18
+4578,The Clan,18
+4001,Barbie Fairytopia: Mermaidia,No genres predicted
+6839,Astro Boy,878
+7088,Romeo Must Die,No genres predicted
+4665,The Thomas Crown Affair,35
+5879,I Spit on Your Grave,"18, 27, 53"
+7544,American Gigolo,18
+3455,Rebel Ridge,18
+5056,Unfaithful,18
+5930,The Pirates! In an Adventure with Scientists!,12
+6841,Speed Racer,"18, 28"
+4962,Summertime,"18, 10749"
+6628,Ondine,No genres predicted
+9295,Dark Water,No genres predicted
+8127,And So It Goes,18
+8884,Fantozzi in Heaven,No genres predicted
+1902,Saving Mr. Banks,No genres predicted
+2185,Love and Monsters,35
+7100,The Jack in the Box: Awakening,No genres predicted
+6339,Dirty Dancing: Havana Nights,18
+7774,Laggies,"18, 35"
+1173,True Romance,"18, 35"
+5597,The Unholy,18
+5974,Hell House LLC,No genres predicted
+2622,Nappily Ever After,18
+4428,State of Play,18
+6074,Watcher,"18, 53"
+4496,Bombshell,18
+2789,Mirai,No genres predicted
+9446,Indovina chi viene a Natale?,18
+3766,Alphaville,No genres predicted
+3536,Caught Stealing,No genres predicted
+2346,Leaving Las Vegas,18
+2448,The Professional,28
+633,Bajrangi Bhaijaan,18
+2111,X-Men: First Class,No genres predicted
+9218,Haywire,28
+6514,After Yang,18
+1407,Mr & Mme Adelman,"18, 10749"
+5023,Eye for an Eye,18
+298,Casino,18
+5107,Backdraft,No genres predicted
+2614,A Shot in the Dark,No genres predicted
+9257,Fire with Fire,"18, 35"
+2690,Rust and Bone,18
+1339,Upgrade,No genres predicted
+8550,Oz the Great and Powerful,No genres predicted
+8564,The Corsican File,18
+4835,Batman: Gotham Knight,28
+2981,The Son's Room,18
+9410,Buffy the Vampire Slayer,No genres predicted
+73,Hotarubi no Mori e,10751
+6900,Resident Evil: Extinction,No genres predicted
+6324,Tarot,No genres predicted
+8462,Goal II: Living the Dream,"18, 35"
+4437,Rio Grande,18
+4760,Badland Hunters,No genres predicted
+6179,Attack the Block,No genres predicted
+2322,Frozen,"35, 10749"
+9235,Life or Something Like It,18
+2692,That Christmas,35
+5381,Orphan: First Kill,No genres predicted
+7847,Like a Cat on a Highway 2,18
+1475,Zorba the Greek,"18, 35"
+7448,The Eyes of My Mother,18
+7505,Free Willy,35
+882,Father There Is Only One,No genres predicted
+2815,The Way Way Back,"18, 35"
+1011,Children of Men,No genres predicted
+7925,Cuban Fury,No genres predicted
+5363,The Quiet Earth,878
+7873,Marked for Death,18
+5428,A Most Violent Year,18
+3773,The Golden Glove,18
+7705,Friday the 13th: The Final Chapter,No genres predicted
+771,Philadelphia,18
+1183,Desert Flower,18
+6673,Bugsy,"18, 35"
+67,Dedicated to my ex,35
+6544,The Killer's Game,"18, 10749"
+7155,Rollerball,878
+4337,Transformers,No genres predicted
+2668,One Hundred and One Dalmatians,No genres predicted
+9236,Fame,18
+8631,Wolves,18
+2,The Godfather,"18, 53"
+8784,The Funhouse,No genres predicted
+5370,Populaire,35
+3369,The Death of Stalin,18
+5509,Radioactive,18
+7141,The Woman in Red,"35, 10749"
+9483,Little Evil,"18, 35, 10749"
+8163,The Santa Claus Gang,35
+831,The Gorge,No genres predicted
+9409,Agent Cody Banks 2: Destination London,35
+4734,Bad Samaritan,53
+578,Pirates of the Caribbean: The Curse of the Black Pearl,No genres predicted
+7992,Ned Kelly,No genres predicted
+1435,Carl's Date,35
+8145,The Possession,No genres predicted
+2432,Woman at War,18
+2366,The Last Kingdom: Seven Kings Must Die,No genres predicted
+4184,Dear John,18
+5992,Never Back Down 2: The Beatdown,No genres predicted
+6652,Insurgent,No genres predicted
+1660,Justice League: Doom,18
+5611,Alex Strangelove,35
+7072,Upside Down,10749
+7711,Mission: Impossible II,"28, 53"
+1875,The Terminal,No genres predicted
+1963,Black Box,53
+3170,The Vikings,18
+9549,Pompeii,28
+3081,Rocky IV,18
+6742,Cinderella,"35, 10751"
+9666,"Game Over, Man!",No genres predicted
+579,Tod@s Caen,"35, 10749"
+8386,Parental Guidance,35
+778,The Maltese Falcon,"35, 80"
+5514,12,18
+9248,47 Meters Down: Uncaged,No genres predicted
+861,Harry Potter and the Order of the Phoenix,18
+5802,Ghost Town,No genres predicted
+2992,Take the Money and Run,35
+9138,The Ring Two,No genres predicted
+5314,The Purge: Anarchy,53
+6987,Star Trek: Nemesis,878
+1539,The Swimmers,18
+3101,Pirates of Silicon Valley,18
+2091,Christopher Robin,"35, 10751"
+702,Rain Man,18
+1107,Feel the Beat,18
+3385,Speak,35
+9346,Flatliners,18
+4286,Bird Box,No genres predicted
+9147,High Life,18
+3748,House of Wax,35
+2931,Wallace & Gromit: The Curse of the Were-Rabbit,35
+8242,Adult World,"18, 35"
+2577,One Piece Film Red,18
+9783,Silent House,No genres predicted
+9947,Blackway,No genres predicted
+3972,Prey for the Devil,No genres predicted
+7468,Mandy,No genres predicted
+3891,Medieval,18
+4091,Christine,35
+1810,Submarine,"18, 10749"
+9836,Hollywoo,"18, 35"
+4032,The Savages,18
+8183,Jaws 2,No genres predicted
+4063,Colette,18
+2644,Crimson Tide,No genres predicted
+1077,"Paul, Apostle of Christ",No genres predicted
+2514,Citizen X,"18, 53, 80"
+15,"The Good, the Bad and the Ugly",No genres predicted
+6164,Time Is Up,18
+6269,Ju-on: The Grudge 2,No genres predicted
+6695,The Lie,35
+8958,Puppet Master,53
+5512,Hanna,28
+4136,Annapolis,No genres predicted
+1693,Once,"18, 35"
+7082,Stigmata,18
+3510,The Class,18
+7450,Eye for an Eye,18
+9825,I Still Know What You Did Last Summer,No genres predicted
+1405,Kung Fu Hustle,28
+2839,The Glass Castle,18
+3023,The Gods Must Be Crazy II,No genres predicted
+3047,The Chase,18
+8574,Mirror Mirror,"35, 10749"
+4856,Marvin's Room,18
+752,Three Steps Above Heaven,18
+9654,Scary Movie 4,No genres predicted
+6297,Harsh Times,"18, 80"
+1123,Cinderella Man,18
+8421,The Nines,18
+7666,Body Snatchers,No genres predicted
+2086,Winchester '73,18
+5784,Charlie Wilson's War,No genres predicted
+4443,Let Me In,18
+1414,Mulan: Rise of a Warrior,28
+5985,Middle Men,18
+1860,Goldfinger,28
+4558,All the Way Boys,35
+118,The Prestige,18
+1792,The Woman in the Window,53
+5050,Falling in Love,35
+9940,Dahmer,18
+9818,Red Sonja,No genres predicted
+3380,The Other Zoey,"18, 35, 10749"
+715,RRR,18
+6460,Chalet Girl,"18, 35"
+2900,Dead Man's Shoes,"18, 28, 53"
+3815,Once Upon a Snowman,No genres predicted
+3144,Sleep Tight,18
+1793,Blow Out,No genres predicted
+9489,Yogi Bear,No genres predicted
+2781,Unbreakable,"18, 53"
+8165,Tarzan & Jane,35
+8080,Persuasion,No genres predicted
+4683,Demolition Man,No genres predicted
+273,Requiem for a Dream,53
+9812,Rock the Kasbah,18
+8458,Grimsby,28
+7716,Attack on Titan,878
+7194,The Bouncer,18
+9582,Everly,No genres predicted
+1377,Patton,18
+9941,The Counselor,"18, 80"
+5114,More the Merrier,"18, 35, 10749"
+7057,Cheaper by the Dozen,"18, 35"
+6203,"Men, Women & Children",18
+696,Train to Busan,53
+9585,Diabolique,53
+9889,Demonic,53
+2818,Following,No genres predicted
+1617,The Boy and the Heron,18
+952,Bad Seeds,18
+5574,James and the Giant Peach,No genres predicted
+2255,The Naked Gun: From the Files of Police Squad!,No genres predicted
+4667,The Devil's Rejects,No genres predicted
+6419,Millions,18
+8539,Dirty Grandpa,No genres predicted
+8672,St Trinian's,35
+9309,Immortal,878
+5166,Elle,No genres predicted
+1836,The Lunchbox,18
+2223,Great Expectations,18
+3813,Mona Lisa Smile,18
+7013,Wrong,"18, 35"
+170,8½,18
+4166,Pitch Black,"27, 28, 53, 878"
+347,Love Exposure,18
+6319,THX 1138,18
+6715,Delicacy,18
+7120,6 Bullets,"28, 53"
+2413,Roma,No genres predicted
+2744,Midsommar,27
+7564,The Producers,35
+5746,The Man Without a Face,18
+6302,Money Monster,"18, 35"
+4203,Shaolin,No genres predicted
+4902,The Ferpect Crime,No genres predicted
+5759,Shaft,No genres predicted
+5809,The Return,No genres predicted
+4668,Parthenope,18
+2408,Russian Ark,No genres predicted
+5261,Love in the Time of Cholera,"18, 10749"
+9083,Abraham Lincoln: Vampire Hunter,No genres predicted
+6802,Universal Soldier,"18, 28"
+9901,Room(h)ates,No genres predicted
+408,La Strada,18
+4906,Get Low,18
+6820,The Endless,No genres predicted
+680,Ip Man,"18, 28"
+4019,Dirty Pretty Things,18
+2365,Jumanji,No genres predicted
+2051,Hello World,"18, 10749"
+312,The Gold Rush,18
+3830,Last Tango in Paris,"18, 10749"
+6929,Pleasure,"18, 35"
+2225,Die Hard: With a Vengeance,53
+5339,Godard Mon Amour,"18, 35, 10749"
+6797,An American Tail: Fievel Goes West,35
+3821,The Miseducation of Cameron Post,18
+3072,The Spy Who Came In from the Cold,18
+9754,Peter Pan & Wendy,"12, 14, 10751"
+1084,The Fabelmans,18
+2535,The Sunset Limited,18
+2373,It,No genres predicted
+1258,Teen Wolf: The Movie,28
+1872,Darkest Hour,18
+4236,Hook,35
+3029,Tess,18
+9689,G-Force,"12, 28, 878"
+2340,Tyrannosaur,18
+2983,The Taste of Things,"18, 35, 10749"
+6467,Jackpot!,No genres predicted
+7207,Midnight Special,No genres predicted
+3238,Cinderella,No genres predicted
+2747,Stepmom,18
+5459,American Pie,35
+9084,The Alamo,18
+1023,The Raid 2,"28, 53, 80"
+5479,The Rat Catcher,No genres predicted
+6738,6 Underground,28
+2658,Minnal Murali,No genres predicted
+6036,Dobermann,"28, 53, 80"
+3069,Remember Sunday,"35, 10749"
+9211,"Legally Blonde 2: Red, White & Blonde",No genres predicted
+2392,"OSS 117: Cairo, Nest of Spies",53
+874,Charade,No genres predicted
+4841,28 Years Later,53
+3002,Pinocchio,No genres predicted
+6566,If I Were You,18
+4620,Jexi,"18, 35"
+5410,The Final Countdown,No genres predicted
+6780,Hide and Seek,18
+6624,The Cabbage Soup,35
+1558,The Lovers on the Bridge,18
+8774,Awake,"28, 53"
+8790,Meatballs,No genres predicted
+9064,The Getaway,18
+3955,The Mustang,18
+8075,Vivarium,No genres predicted
+5252,The Kid Detective,No genres predicted
+237,A Dog's Journey,18
+1336,Still Life,18
+2442,The Last Temptation of Christ,18
+7463,Braven,No genres predicted
+7861,Ares,18
+2301,Despicable Me,35
+4231,Everybody's Fine,"18, 35"
+1639,This Is Spinal Tap,No genres predicted
+8227,Lions for Lambs,No genres predicted
+9311,The Ringer,35
+3084,Space Sweepers,878
+7525,Magic Mike,"18, 35"
+8484,Someone Like You...,"35, 10749"
+9392,The Reef,No genres predicted
+8726,Battleship,"28, 878"
+2156,The Hundred-Foot Journey,18
+1866,The Lady from Shanghai,18
+6718,City of Ember,No genres predicted
+385,Raiders of the Lost Ark,No genres predicted
+1343,My Cousin Vinny,"18, 35"
+5264,Mia Madre,18
+7727,Free Willy 3: The Rescue,35
+1351,BURN·E,18
+1930,The In Between,18
+4534,Fallen,"53, 80"
+6961,Harold & Kumar Escape from Guantanamo Bay,35
+1388,No Man's Land,18
+8758,Poseidon,No genres predicted
+4860,A Working Man,18
+7154,Dead Space: Downfall,"28, 878"
+8035,Berberian Sound Studio,18
+6759,Hostage,"53, 80"
+338,Sanjuro,No genres predicted
+8984,The Forger,18
+6083,Operation Fortune: Ruse de Guerre,"28, 35"
+3651,Rob-B-Hood,No genres predicted
+1494,Dirty Harry,No genres predicted
+5541,Saint Maud,18
+6260,Fido,35
+450,Dragon Ball Super: Super Hero,28
+5362,The Grandmaster,18
+125,Doctor Who: The Day of the Doctor,No genres predicted
+8867,The Black Hole,No genres predicted
+4526,The Rescuers,53
+5716,Twister,No genres predicted
+1356,My Dinner with Andre,"18, 35"
+8588,The Black Demon,No genres predicted
+3278,Kung Fu Panda 4,"12, 28"
+4088,50 First Dates,"35, 10749"
+7418,Kill List,No genres predicted
+5396,The Nile Hilton Incident,"18, 53"
+1808,Moonlight,"18, 10749"
+1877,Till,18
+1607,Richard Jewell,"18, 53"
+9955,Holy Man,18
+9728,Observe and Report,28
+4410,Mongol: The Rise of Genghis Khan,18
+6880,She's All That,35
+4867,Another Earth,18
+3357,Dreamer: Inspired By a True Story,No genres predicted
+8352,Love the Coopers,35
+8787,Forbidden Empire,No genres predicted
+4531,Three... Extremes,No genres predicted
+2857,The Lodger: A Story of the London Fog,"27, 53, 9648"
+7383,The Hole,No genres predicted
+8540,Air Buddies,35
+2398,The Ugly Stepsister,No genres predicted
+4424,Il ragazzo di campagna,35
+499,A Beautiful Mind,18
+7520,Fierce Creatures,35
+2106,How Green Was My Valley,18
+9288,You Choose!,"18, 35"
+929,Atonement,18
+7124,Malice,35
+1408,Once Upon a Time in Anatolia,18
+3461,The Animal Kingdom,No genres predicted
+3183,Legend,80
+9456,The Scorpion King,28
+4524,People Like Us,18
+8879,Welcome to Me,35
+8980,Boo! A Madea Halloween,27
+8854,Are We Done Yet?,35
+739,Beauty and the Beast,No genres predicted
+1196,Fury,28
+8373,Wild Hogs,35
+1859,Blow,35
+1010,The Fall,18
+9999,Crossroads,"18, 35"
+4807,La matassa,35
+6432,MirrorMask,"12, 14"
+2135,The Aristocats,35
+8435,Cry Macho,18
+7357,Mad Max Beyond Thunderdome,No genres predicted
+1287,"One, Two, Three",18
+3125,Warriors of Future,28
+1591,Once Upon a Time... in Hollywood,"18, 35"
+5450,Nothing to Lose,80
+3440,Powder,No genres predicted
+2613,Sleepy Hollow,No genres predicted
+8742,54,35
+6254,King of California,35
+6558,Baby Boom,"18, 35, 10749"
+6190,Back in Action,53
+2252,La Bamba,"18, 35"
+3119,Police Story 2,"28, 80"
+2415,2046,"18, 10749"
+657,Back to the Future Part II,35
+185,Soul,18
+42,Inception,No genres predicted
+9878,Jungle 2 Jungle,18
+6027,Shoot 'Em Up,No genres predicted
+5877,Operation Mincemeat,No genres predicted
+5016,Unknown,No genres predicted
+437,Coraline,35
+3534,Crime Busters,35
+5286,The Hunt,53
+7164,Message from the King,"18, 53"
+5745,The Quick and the Dead,No genres predicted
+8148,Master Gardener,18
+264,The 400 Blows,"18, 35"
+2707,Straw Dogs,18
+9887,Material Girls,18
+2243,Top Hat,35
+5236,The Immortal,No genres predicted
+4519,The Thomas Crown Affair,35
+6053,Rush Hour 3,"28, 53, 80"
+9694,Jupiter Ascending,878
+5884,Joe,No genres predicted
+857,Belle,18
+5791,The Quiet American,"18, 10749"
+4307,Seven Psychopaths,"18, 80"
+2452,Open Range,No genres predicted
+6507,Jungle Fever,18
+2764,Law of Desire,"18, 10749"
+8057,Cyberbully,18
+5724,Halloweentown High,35
+5871,Tulip Fever,18
+2159,Dragon Ball Z: Wrath of the Dragon,"14, 16"
+7803,Peggy Sue Got Married,"18, 35"
+8480,Dark Star,"28, 878"
+8829,Doghouse,27
+5525,Return,No genres predicted
+1411,Willy Wonka & the Chocolate Factory,35
+9696,The Misfits,18
+6301,The Personal History of David Copperfield,18
+959,My Policeman,No genres predicted
+6925,Nanny McPhee and the Big Bang,No genres predicted
+2170,Stranger Than Fiction,18
+8380,Fatal,"18, 35"
+2930,Field of Dreams,No genres predicted
+8457,Married to the Mob,80
+6476,Grown Ups,35
+5828,Black Mass,"18, 53, 80"
+128,Django Unchained,No genres predicted
+4055,Coming to America,35
+660,One Life,18
+430,Harry Potter and the Philosopher's Stone,No genres predicted
+9611,Police Academy 4: Citizens on Patrol,No genres predicted
+9362,Brüno,35
+1155,My Man Godfrey,35
+5352,Ruthless People,No genres predicted
+6992,Beirut,"28, 53"
+2396,Love Me If You Dare,35
+1770,Pain and Glory,18
+5584,The Wild One,18
+6453,Family Switch,No genres predicted
+8797,Identity Thief,35
+5487,Homeward Bound II: Lost in San Francisco,No genres predicted
+1624,Scream,"27, 53"
+986,Mildred Pierce,"18, 35"
+961,The Man from Earth,No genres predicted
+4216,Girls Trip,35
+377,The Circus,"18, 10749"
+8518,Drinking Buddies,35
+5489,Australia,No genres predicted
+5649,The Salton Sea,18
+7098,Proxima,18
+9902,Supergirl,No genres predicted
+2800,The Fox and the Hound,"35, 10751"
+4043,Steamboy,18
+1747,The Lion in Winter,18
+4382,Stage Fright,18
+6755,Falcon Rising,18
+8465,iBoy,No genres predicted
+2616,Village of the Damned,18
+9600,The Brice Man,18
+8351,Close,18
+5855,Curious George,No genres predicted
+1349,"Cyrano, My Love","18, 35"
+7904,Scooby-Doo,"35, 9648"
+6487,Silent Running,No genres predicted
+3055,True Lies,"28, 53"
+5669,The Lost World: Jurassic Park,No genres predicted
+3287,Moana 2,12
+7526,D2: The Mighty Ducks,35
+2420,The Intern,35
+4339,Army of Thieves,53
+1698,Memoir of a Murderer,"27, 53, 80, 9648"
+3140,Dope,18
+3308,The Darkest Minds,No genres predicted
+4441,Kundun,18
+6740,Coogan's Bluff,No genres predicted
+6892,16 Wishes,35
+4351,We Bought a Zoo,35
+5609,The Grey,No genres predicted
+7558,The Hummingbird Project,35
+1642,The Mauritanian,18
+2484,Kiss Me Deadly,No genres predicted
+2431,Ghost,No genres predicted
+1724,The Devil Wears Prada,"18, 35"
+7654,Return,No genres predicted
+8818,Coriolanus,18
+3006,TÁR,18
+4365,Halloweentown,14
+3524,First Reformed,18
+2995,The Negotiator,"53, 80"
+7413,Sukiyaki Western Django,No genres predicted
+6873,Ted 2,"18, 35"
+2016,Blow-Up,"18, 35"
+1076,Scarlet Street,18
+3301,An American in Paris,18
+1330,"Tad, the Lost Explorer and the Emerald Tablet",35
+4968,Till Death,"27, 53"
+5324,Those Who Wish Me Dead,No genres predicted
+4545,House on Haunted Hill,53
+3268,Charlie and the Chocolate Factory,18
+865,The Trial of the Chicago 7,18
+2372,West Side Story,35
+7770,Waxwork,35
+6990,Hero,No genres predicted
+5593,In Hell,"18, 28, 53"
+6706,Honey,"18, 35"
+9196,Children of the Corn,No genres predicted
+2649,50/50,18
+5918,The Game Plan,18
+3389,A Brighter Tomorrow,18
+2875,Silence,18
+7538,Saw IV,No genres predicted
+6454,Ooops! Noah Is Gone...,35
+5768,A Night at the Roxbury,35
+9629,Bliss,35
+9810,Junior,"18, 35, 10749"
+4884,The Bounty,18
+6298,Guns Akimbo,28
+3935,Rosencrantz & Guildenstern Are Dead,18
+7788,John Tucker Must Die,35
+1081,Confessions,18
+4130,Hard Eight,18
+3718,Homefront,18
+1399,Mind Game,18
+1552,Last Year at Marienbad,18
+4847,Batman: Mystery of the Batwoman,"28, 80"
+6042,The Village,18
+7231,2 Days in Paris,35
+9569,Old Dogs,"18, 35"
+9645,Life After Beth,10749
+4092,Look Both Ways,"18, 35, 10749"
+5318,Cocoon,No genres predicted
+2267,The Day of the Beast,18
+4049,Major League,35
+3529,The Admiral: Roaring Currents,28
+3066,The Bear,No genres predicted
+2526,The Secret Life of Walter Mitty,No genres predicted
+6526,Singles,18
+9388,The Cloverfield Paradox,878
+1713,Stand by Me Doraemon,35
+3722,An Education,"18, 35"
+4961,Peter Rabbit,No genres predicted
+4846,Cado dalle nubi,"18, 35, 10749"
+2915,After,18
+6692,Killer's Kiss,18
+4357,The Powerpuff Girls Movie,35
+6509,The Spy Who Dumped Me,"35, 53"
+3091,First Cow,No genres predicted
+6344,Last Seen Alive,"18, 53"
+4726,May God Save Us,No genres predicted
+3160,Honey Boy,18
+7528,Avalon High,35
+1957,Dark City,No genres predicted
+6405,Ocean Waves,18
+793,The Sacrifice,18
+2142,Last Night in Soho,18
+8781,Jack the Giant Slayer,"14, 28"
+8087,Jimmy Neutron: Boy Genius,35
+9739,What Just Happened,"18, 35"
+3431,The Post,18
+8176,Mechanic: Resurrection,No genres predicted
+1019,Ride Your Wave,"18, 10749"
+469,Dogman,"18, 10749"
+9163,Playmobil: The Movie,18
+500,Vincent,35
+854,The Hustler,No genres predicted
+90,I Want to Eat Your Pancreas,No genres predicted
+5255,The Girl Next Door,18
+8451,Would You Rather,"18, 53"
+4798,Breaking Surface,18
+666,The Summit of the Gods,No genres predicted
+9493,El Camino Christmas,No genres predicted
+8260,Vegas Vacation,35
+5747,K-19: The Widowmaker,"12, 28"
+6294,Total Eclipse,18
+9129,Pet Sematary,"18, 27"
+8782,The Five-Year Engagement,35
+1434,The Bourne Identity,No genres predicted
+5492,Noelle,No genres predicted
+4940,Hector and the Search for Happiness,35
+7883,Jumpin' Jack Flash,53
+2266,Everything Is Illuminated,18
+3061,Concussion,18
+5967,The Gendarme Gets Married,35
+436,Regular Show: The Movie,No genres predicted
+6093,Paris,18
+9296,First Kill,"18, 80"
+2565,Pusher II,18
+1851,The Enigma of Kaspar Hauser,18
+3207,Escape from New York,No genres predicted
+3477,The Tower,No genres predicted
+2508,Bagdad Cafe,"18, 35"
+3943,Leap Year,"18, 35, 10749"
+2457,The Hunger Games,No genres predicted
+4525,I Am Love,18
+4373,Non-Stop,53
+9325,Fatal Affair,18
+1264,Night on Earth,No genres predicted
+2067,Balto,No genres predicted
+3867,Zombieland: Double Tap,18
+2240,Dolores Claiborne,18
+5032,Zulu,18
+9411,The Bonfire of the Vanities,18
+1147,The Consequences of Love,18
+2728,The Darjeeling Limited,18
+4900,Along for the Ride,18
+7331,Just Friends,35
+4392,Lords of Chaos,18
+7068,X-Men Origins: Wolverine,No genres predicted
+3339,Invincible,"18, 35"
+7304,Gundala,18
+3715,The Lion King II: Simba's Pride,No genres predicted
+783,PK,18
+4614,Family Guy Presents: It's a Trap!,No genres predicted
+3639,Knox Goes Away,18
+124,My Mom Is a Character 3,35
+3064,One Piece: The Movie,12
+22,Harakiri,No genres predicted
+1200,Shaun of the Dead,18
+6779,Oscar,No genres predicted
+2422,Man Bites Dog,No genres predicted
+8265,Blue Crush,18
+933,A Dog's Purpose,No genres predicted
+7576,K-9,No genres predicted
+2936,Vicky and Her Mystery,No genres predicted
+9909,City Slickers II: The Legend of Curly's Gold,35
+3984,Outrage,18
+7854,ARQ,878
+4347,Tenebre,No genres predicted
+1841,Shane,18
+8659,Assault on Wall Street,18
+6243,Ghost Stories,"18, 27, 53"
+3999,School Life,18
+2974,Mission: Impossible - Ghost Protocol,28
+9177,Sherlock Gnomes,No genres predicted
+797,Day & Night,35
+2725,McCabe & Mrs. Miller,No genres predicted
+1820,I Can Quit Whenever I Want 3: Ad Honorem,35
+8452,Ghosts of Girlfriends Past,"18, 35, 10749"
+7312,Point of No Return,"28, 53, 80"
+3129,The Lovely Bones,18
+5875,Madagascar: Escape 2 Africa,35
+7384,Last Man Down,"28, 53"
+6727,From Paris with Love,35
+9153,Billionaire Boys Club,18
+9524,Striptease,18
+3779,Black Christmas,No genres predicted
+5415,The Fabulous Baker Boys,18
+9241,Wish Upon,14
+6310,Annihilation,No genres predicted
+9231,Metro,80
+7881,Sea Fever,18
+5418,Kill the Messenger,18
+879,October Sky,18
+4478,eXistenZ,53
+7568,Everything Must Go,No genres predicted
+2221,Gonjiam: Haunted Asylum,27
+9854,Ghostbusters,No genres predicted
+2499,Fear and Loathing in Las Vegas,No genres predicted
+2886,Boy A,18
+4022,Little,No genres predicted
+7707,The Brass Teapot,18
+8961,Nightbitch,No genres predicted
+7674,Rising Sun,53
+7987,The Crazies,18
+2201,Mune: Guardian of the Moon,10751
+3876,Pocahontas,"18, 10749"
+3284,Uri: The Surgical Strike,28
+6265,The Silencing,"53, 80"
+7634,Red's Dream,No genres predicted
+6057,All the Money in the World,18
+5354,Alienoid: Return to the Future,"53, 878"
+4818,Welcome to the South,18
+5390,Kajaki,No genres predicted
+3640,Licorice Pizza,18
+7213,The Eagle,No genres predicted
+6714,The Suicide Shop,No genres predicted
+2831,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","12, 14, 10751"
+8576,Zardoz,No genres predicted
+2472,Wings,"18, 10749"
+2969,The Goddess of Fortune,"18, 35, 10749"
+4418,Kung Fu Jungle,"28, 53, 80"
+4869,The Cooler,18
+1259,Black Narcissus,18
+4909,Confessions of a Dangerous Mind,"28, 35, 53"
+7340,Transformers: Dark of the Moon,28
+3724,The Witches,No genres predicted
+6532,"Love, Guaranteed","18, 35, 10749"
+4343,Pope Joan,18
+1574,EverAfter,No genres predicted
+4815,The Thing from Another World,878
+2937,Mickey's Once Upon a Christmas,35
+9723,The Cave,No genres predicted
+9700,The Breed,27
+7436,The Twilight Saga: Breaking Dawn - Part 1,18
+8729,Death at a Funeral,No genres predicted
+2636,Pusher III,No genres predicted
+9500,D-Tox,No genres predicted
+3546,Dug's Special Mission,35
+8584,Eileen,"18, 53"
+5522,The Night House,"18, 53"
+4733,Batman: Soul of the Dragon,28
+8998,Fool's Gold,No genres predicted
+812,Better Man,18
+5661,Annie,35
+3512,Holidate,"18, 35"
+4596,Hannibal,18
+5356,Cruising,53
+3519,22 vs. Earth,No genres predicted
+8938,Hangman,"53, 80"
+2544,Happening,18
+9848,Tekken,18
+331,Three Men and a Leg,35
+1436,Fear City: A Family-Style Comedy,No genres predicted
+5714,High School Musical,"18, 35"
+3179,April and the Extraordinary World,No genres predicted
+8682,Futureworld,No genres predicted
+4280,Venom,"28, 878"
+5876,The Sisterhood of the Traveling Pants,35
+2449,Breakfast on Pluto,18
+9107,Three Steps Over Heaven,No genres predicted
+1214,The Call of the Wild,"35, 10751"
+9014,Mary Reilly,10749
+1451,Imitation of Life,18
+3990,Tears of the Sun,28
+7827,Cradle 2 the Grave,"28, 53, 80"
+6410,Two Night Stand,No genres predicted
+8723,USS Indianapolis: Men of Courage,18
+5151,Shadow of the Vampire,No genres predicted
+1439,"Live Twice, Love Once",18
+7442,Mark Felt: The Man Who Brought Down the White House,18
+4123,Nobody's Fool,18
+7820,Melody Time,35
+4600,Chasing Amy,35
+466,An Egg Rescue,No genres predicted
+4405,Conan the Barbarian,No genres predicted
+6444,Miami Supercops,80
+6120,Them Who?,No genres predicted
+5949,Osmosis Jones,53
+706,A Matter of Life and Death,"18, 10749"
+4702,Bridget Jones's Diary,35
+1243,Dragon Ball Z: Fusion Reborn,No genres predicted
+315,North by Northwest,No genres predicted
+9517,Collide,"28, 80"
+1997,Papillon,18
+5001,No One Will Save You,18
+9316,Jenny's Wedding,35
+8842,Mom or Dad?,35
+8177,Stand Up Guys,"18, 80"
+2706,The Fortune Cookie,18
+5091,Muppet Treasure Island,No genres predicted
+6849,Encounter,28
+6268,Small Time Crooks,"18, 35"
+9515,Leprechaun,27
+4170,Help!,28
+97,Out of the Clear Blue Sky,No genres predicted
+1152,"4 Months, 3 Weeks and 2 Days",No genres predicted
+4009,4th Man Out,35
+8348,Prime,18
+8703,Beyond the Reach,18
+3873,Amazing Grace,18
+9134,Armored,"53, 80"
+2693,Teen Titans Go! To the Movies,35
+2476,And Now for Something Completely Different,35
+1623,Johnny Guitar,18
+7784,Adore,18
+8876,Shadow in the Cloud,No genres predicted
+4716,The Tree of Life,18
+6480,Project Wolf Hunting,"27, 53"
+8789,A Good Old Fashioned Orgy,35
+8018,Angel Eyes,18
+4938,YES DAY,35
+1028,The Big Country,No genres predicted
+6599,Everybody Wants Some!!,35
+7604,New York Minute,35
+2367,Violent Cop,80
+5383,The Hunter,No genres predicted
+2598,Professor Marston and the Wonder Women,No genres predicted
+6494,The Lost City of Z,18
+6885,Ice Road: Vengeance,28
+4658,Rio,No genres predicted
+115,The Help,18
+9609,Made in America,18
+7875,Life of the Party,"18, 35"
+8438,Killers,No genres predicted
+621,Forbidden Games,18
+6757,Proof,18
+8731,Free Birds,35
+7460,The Hustle,35
+1182,The Hand of God,18
+979,Arrival,"12, 878"
+5375,Double Jeopardy,"53, 80"
+843,Jaws,No genres predicted
+3273,You Don't Know Jack,No genres predicted
+5403,Fireworks,No genres predicted
+3479,The Duchess,18
+9737,Cursed,"18, 53"
+3211,Keith,"35, 10749"
+4456,Asterix: The Mansions of the Gods,18
+4118,Strangeness,"18, 35"
+150,Capernaum,18
+8562,Alien Abduction,No genres predicted
+5096,The Royal Treatment,No genres predicted
+4157,American Hustle,"28, 80"
+5962,He's All That,No genres predicted
+8134,The Net,"28, 53"
+3831,Private Life,18
+7474,Elizabeth Harvest,18
+83,Rascal Does Not Dream of a Dreaming Girl,"18, 35"
+7498,A Lonely Place to Die,No genres predicted
+366,Miraculous World: Shanghai - The Legend of Ladydragon,35
+6258,Saved!,No genres predicted
+7599,Sick,35
+5592,Horrible Bosses,35
+2537,Saw X,"18, 53"
+3498,Dr. No,12
+2840,With Every Heartbeat,18
+2121,The Devil's Backbone,18
+5698,The Fox and the Child,18
+6828,The Alto Knights,80
+9603,The Mummy,No genres predicted
+9422,The Medallion,28
+7280,Mile 22,"28, 53"
+4752,The King's Man,28
+5929,Obvious Child,"18, 35"
+2258,Notting Hill,"18, 10749"
+2980,Naruto the Movie: Guardians of the Crescent Moon Kingdom,No genres predicted
+370,A Man Escaped,"18, 10752"
+1344,In Bruges,No genres predicted
+2417,South Park: Post COVID,No genres predicted
+8882,Monstrous,No genres predicted
+8404,Scary Movie 3,No genres predicted
+2383,The Teachers' Lounge,18
+6040,Genius,18
+794,The Wizards Return: Alex vs. Alex,"12, 14"
+7234,Unlocked,"28, 53"
+424,Amarcord,"18, 35"
+5476,Sunshine Cleaning,"18, 35"
+2321,The City of Lost Children,No genres predicted
+6289,30 Days of Night,18
+8513,Come to Daddy,No genres predicted
+6061,She's Out of My League,35
+4505,Unthinkable,"28, 53"
+4912,The Bodyguard,10749
+6711,Outside the Wire,53
+1275,The Goonies,No genres predicted
+7255,Unlawful Entry,18
+9157,R.A.I.D. Special Unit,No genres predicted
+4571,Death Sentence,No genres predicted
+8862,The Family Fang,No genres predicted
+4642,In the Heart of the Sea,No genres predicted
+8193,1BR,No genres predicted
+410,Limelight,"18, 35"
+4305,The Spy Who Loved Me,No genres predicted
+2456,A Christmas Story,"35, 10751"
+7074,King Kong,No genres predicted
+1452,Midnight Express,18
+504,How to Train Your Dragon,No genres predicted
+1064,Blade Runner 2049,No genres predicted
+4808,The Polar Express,18
+9740,The 15:17 to Paris,18
+5277,Kate,"28, 53"
+5582,My First Time,18
+7430,Death Wish,No genres predicted
+2792,We Were Soldiers,"18, 28, 10752"
+65,The Great Dictator,18
+9402,On the Road,18
+5703,Paranoid Park,No genres predicted
+1895,Bubble,18
+5524,Brexit: The Uncivil War,18
+1730,Black Hawk Down,28
+9113,Uglies,No genres predicted
+9305,Hush,18
+3474,The Walk,No genres predicted
+852,Fireproof,"18, 35"
+3636,Ronin,"18, 53"
+4999,Slow West,18
+1328,Gaslight,No genres predicted
+5213,Repo Man,35
+9066,The To Do List,35
+7866,Ain't Them Bodies Saints,18
+7391,The Expendables 3,No genres predicted
+1801,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,12
+3832,Paulie,No genres predicted
+8103,Black Death,No genres predicted
+3350,Soul Surfer,18
+5532,You Only Live Twice,"28, 53"
+3013,Lorenzo's Oil,18
+5299,Spring,"18, 53"
+9057,Ben 10: Race Against Time,878
+3042,Kingdom: Ashin of the North,18
+3190,The SpongeBob SquarePants Movie,35
+5295,Obsession,18
+6769,Machete,"28, 53"
+4139,August: Osage County,18
+7353,Black Butterfly,No genres predicted
+3336,Eight Below,No genres predicted
+593,Before Sunset,18
+6364,Eurovision Song Contest: The Story of Fire Saga,35
+7745,Rebels,18
+8139,Immortals,28
+6883,17 Again,35
+1649,Romeo and Juliet,"18, 10749"
+8058,Home on the Range,35
+7757,Apostle,"27, 53"
+3979,Tangerine,"18, 35"
+781,The Promised Land,18
+427,Dragon Ball Super: Broly,"28, 878"
+2724,Stargate: Continuum,No genres predicted
+3982,Uncharted,No genres predicted
+9399,Fantastic Four: Rise of the Silver Surfer,12
+1834,The Man in the Moon,"18, 10749"
+1312,After Hours,No genres predicted
+8434,Imaginary,No genres predicted
+7888,Grudge Match,18
+586,Network,18
+2702,Gravity,878
+2418,The Old Oak,18
+2605,The Cutting Edge,18
+4744,Henry: Portrait of a Serial Killer,No genres predicted
+2643,Lady and the Tramp,"18, 35, 10749"
+1151,"Synecdoche, New York",18
+8365,Gloria Bell,"18, 35, 10749"
+1667,Mon Oncle,35
+6318,Fame,18
+5006,Rambo,"28, 53"
+7144,Ad Vitam,"28, 53"
+9462,Kaboom,35
+4417,Allied,"18, 28"
+300,Paperman,35
+7844,Clown in a Cornfield,No genres predicted
+2254,Videodrome,35
+7786,Street Trash,No genres predicted
+1788,A Royal Affair,"18, 10749"
+5506,Igby Goes Down,18
+4079,Juror #2,"18, 53"
+4262,Demolition,18
+6640,Jason Bourne,"28, 53"
+2308,Race,18
+570,Paprika,No genres predicted
+7782,Bad Trip,35
+8496,A Madea Family Funeral,No genres predicted
+7773,Geostorm,"28, 878"
+5797,The Monkey King,No genres predicted
+5320,Dead Men Don't Wear Plaid,No genres predicted
+8206,Indiana Jones and the Kingdom of the Crystal Skull,No genres predicted
+509,Fargo,53
+8172,Yamakasi,No genres predicted
+130,Maquia: When the Promised Flower Blooms,No genres predicted
+5143,Oblivion,28
+9261,The Strangers: Prey at Night,27
+9690,Pet Sematary II,"18, 35"
+1143,Beautiful Boy,18
+7459,Spartan,"28, 53"
+7127,Hope Springs,18
+4046,Those People,18
+5781,Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,35
+8044,Black Sheep,"18, 35"
+3702,T2 Trainspotting,18
+4680,Pawn Sacrifice,18
+7941,The Remaining,No genres predicted
+6078,Air Force One,18
+4281,Quest for Camelot,"12, 14"
+5142,Attraction,878
+1323,Menace II Society,18
+6813,Underworld: Awakening,28
+5812,Penguins of Madagascar,28
+6788,Crying Freeman,18
+1139,What We Do in the Shadows,35
+1301,The Favourite,18
+4363,Animal Kingdom,18
+9911,Clinical,18
+9162,Cuckoo,27
+4256,Wonder Boys,No genres predicted
+2533,The Awful Truth,"18, 10749"
+9128,When a Stranger Calls,No genres predicted
+9579,The Man with the Iron Fists,18
+1630,Jin-Roh: The Wolf Brigade,No genres predicted
+2507,I Am Legend,"18, 878"
+5222,Wasabi,"18, 35"
+4364,Step Up 3D,No genres predicted
+1714,The Good Lie,18
+9382,The Hole in the Ground,"27, 53"
+5789,Save the Last Dance,18
+8773,Simply Black,35
+9343,In a Violent Nature,27
+7504,Sniper,No genres predicted
+8314,Wilson,18
+1736,Selma,18
+2001,The Mafia Kills Only in Summer,18
+6028,The Perfect Storm,No genres predicted
+7892,Zapped,18
+6436,The Clovehitch Killer,"18, 53"
+9852,Independence Day: Resurgence,"28, 878"
+8845,Resident Evil: Retribution,"27, 28, 878"
+5982,Flashdance,18
+4463,Vicky Cristina Barcelona,18
+7452,Blood Work,"53, 80"
+597,The Wrong Trousers,35
+2471,The Edge of Heaven,"18, 10749"
+9019,The NeverEnding Story II: The Next Chapter,12
+6700,W.E.,18
+3930,Breakdown,No genres predicted
+6760,The Fourth Kind,No genres predicted
+5499,Bernie,18
+3956,American Made,18
+7794,Crimson Rivers II: Angels of the Apocalypse,"53, 80"
+8200,Timecop,18
+407,CODA,18
+7607,Blacklight,"28, 53"
+5392,Swallow,No genres predicted
+6031,I Still See You,"53, 878"
+3613,In the Line of Fire,"18, 28"
+5199,Foxcatcher,No genres predicted
+7893,On the Rocks,18
+3484,Underdogs,18
+8286,Dragnet,No genres predicted
+5468,The Exorcism of Emily Rose,18
+2349,Alita: Battle Angel,18
+2739,New Police Story,"28, 80"
+844,The Count of Monte Cristo,18
+6185,Airport,No genres predicted
+374,The General,18
+1359,The Two Popes,18
+7283,Intimacy,18
+8161,Werewolves Within,No genres predicted
+4015,Under the Tuscan Sun,"18, 35"
+1815,Southpaw,18
+7839,Tower Heist,No genres predicted
+6153,The Indian in the Cupboard,18
+1447,The Fugitive,"18, 53"
+8839,Into the Forest,No genres predicted
+7129,Moonfall,No genres predicted
+2404,The Orphanage,No genres predicted
+5013,The Ring,No genres predicted
+3995,Cloud Atlas,"18, 878"
+3528,The Brutalist,18
+6655,The Housemaid,No genres predicted
+1840,Mutiny on the Bounty,"18, 28"
+85,The Legend of 1900,18
+918,Tangerines,18
+7285,How to Have Sex,18
+8372,The American,No genres predicted
+6484,Celeste & Jesse Forever,35
+3556,The Duke,No genres predicted
+1068,Ready Player One,35
+131,Memento,"18, 53"
+5067,Mad Max,28
+2898,Partysaurus Rex,35
+862,The Blind Side,18
+100,Wolf Children,18
+8585,Suicide Squad,28
+5911,High School Musical 2,"18, 35"
+5015,Scream,"27, 53"
+8485,Intolerable Cruelty,35
+9882,November Criminals,No genres predicted
+6038,All of Me,18
+7122,The Bet,35
+3121,WarGames,No genres predicted
+7694,Wrong Turn 2: Dead End,53
+1527,Happiness,18
+5800,Dead Snow 2: Red vs. Dead,28
+3093,The Kid with a Bike,18
+2742,Dracula,No genres predicted
+6330,I Do,"18, 35"
+1787,Stuck in Love,"18, 35, 10749"
+6915,Creep 2,No genres predicted
+4742,Godmothered,No genres predicted
+390,Ivan Vasilyevich Changes His Profession,No genres predicted
+4220,Bird,18
+7772,100% Wolf,No genres predicted
+9396,Twin Murders: The Silence of the White City,18
+2485,[REC],"27, 53"
+3946,A Monster in Paris,35
+1206,The Wrestler,18
+9275,The Beach Bum,35
+8889,Maximum Overdrive,"28, 53"
+1065,Hair Love,35
+4820,Brotherhood of the Wolf,No genres predicted
+4690,The Matrix Revolutions,28
+5677,Insidious: The Red Door,No genres predicted
+3015,The Mad Women's Ball,18
+3036,Bullets Over Broadway,18
+2997,Fear Street: 1666,No genres predicted
+172,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,53
+2080,Gone Baby Gone,35
+3038,The Exorcism of God,No genres predicted
+8244,How to Talk to Girls at Parties,"35, 10749"
+1204,Bāhubali: The Beginning,18
+2196,Dark Passage,"18, 53"
+4786,DuckTales: The Movie - Treasure of the Lost Lamp,"35, 10751"
+3423,Certified Copy,"18, 35, 10749"
+6492,Jurassic World Rebirth,"12, 28, 53"
+7424,Get Smart,"28, 53"
+6430,Olympus Has Fallen,"28, 53"
+2009,Lucky,18
+4539,Steve Jobs,18
+9156,The Whole Ten Yards,No genres predicted
+9894,Bigbug,No genres predicted
+7730,A Life Less Ordinary,35
+1884,End of Watch,18
+2695,The Lucky One,18
+7833,Freaks of Nature,"27, 35, 878"
+856,Prey,28
+210,Das Boot,No genres predicted
+3587,The Descent,53
+2962,Suicide Squad: Hell to Pay,28
+3213,But I'm a Cheerleader,35
+7629,Transporter 3,"28, 53"
+3451,Frankenweenie,No genres predicted
+9789,Changing Sides,"18, 35"
+5272,Always Be My Maybe,"18, 35"
+5600,Sex and the City,"35, 10749"
+7237,Legend,"12, 14"
+4797,Team America: World Police,No genres predicted
+7968,The Unlikely Prince,35
+8267,The Deep House,"27, 53"
+8167,Killing Them Softly,"28, 80"
+3076,The Leisure Seeker,"18, 35"
+3605,"It's a Mad, Mad, Mad, Mad World",No genres predicted
+9976,Sorry if I Want to Marry You,"18, 35"
+5485,The Warriors Gate,"12, 28"
+3075,Godzilla x Kong: The New Empire,28
+695,God's Own Country,18
+1941,"Bianco, rosso e Verdone","18, 35"
+4738,Appleseed Alpha,"28, 878"
+7954,Diabolik,80
+112,Wolfwalkers,No genres predicted
+1171,The Wolf's Call,53
+3260,Love & Other Drugs,No genres predicted
+7181,Gigi,No genres predicted
+5094,Fantastic Voyage,35
+7491,Blitz,"28, 53, 80"
+4500,The Three Musketeers,No genres predicted
+7766,The Strangers,"27, 53"
+2054,Tomboy,18
+4452,Battle of the Year,35
+2399,Justice League: Crisis on Infinite Earths Part Three,28
+7993,Yu-Gi-Oh! The Movie,"12, 14, 28"
+656,Wings of Desire,18
+3936,Hidalgo,12
+8554,Blonde,18
+577,Finding Nemo,No genres predicted
+9487,The English Teacher,18
+7948,Mindhorn,"35, 80"
+7561,Tales from the Darkside: The Movie,No genres predicted
+8479,Lord of Illusions,53
+404,Inside Out,No genres predicted
+5859,Kiss the Girls,53
+3138,At the End of the Tunnel,No genres predicted
+587,Joint Security Area,53
+2273,Lava,18
+4103,The Young and Prodigious T.S. Spivet,18
+7132,Very Bad Things,35
+129,A Clockwork Orange,18
+4518,The Curse of Frankenstein,27
+5232,Rugrats in Paris: The Movie,35
+135,The Usual Suspects,No genres predicted
+3117,Searching for Bobby Fischer,"18, 35"
+608,The Whale,18
+6927,The Texas Chainsaw Massacre,53
+8615,Into the Blue,35
+5155,Crimson Peak,18
+4372,15 Minutes of War,18
+7230,Mad City,35
+4819,Black Beauty,18
+1087,Coach Carter,"18, 35"
+4761,Still Time,35
+4972,Bananas,35
+5030,The Island,No genres predicted
+4905,The Current War,18
+7112,The Ritual,"27, 35"
+7988,Meet Bill,35
+4234,Muriel's Wedding,"18, 35, 10749"
+3089,Conviction,18
+7731,The Nut Job 2: Nutty by Nature,"12, 35"
+4527,Nonnas,No genres predicted
+6160,The Wedding Ringer,35
+4911,Teenage Mutant Ninja Turtles,No genres predicted
+1822,Naruto Shippuden the Movie: The Will of Fire,No genres predicted
+2667,Nowhere Boy,18
+4687,Peninsula,28
+9051,Fantasy Island,No genres predicted
+8763,Casino Jack,18
+1678,The Basketball Diaries,18
+7622,Jeepers Creepers 2,35
+2777,The Accountant²,"28, 53, 80"
+2437,The Sword in the Stone,18
+1295,Shadow of a Doubt,No genres predicted
+910,Three Colors: Blue,18
+1100,Persian Lessons,18
+7306,J. Edgar,18
+5840,L'allenatore nel pallone,35
+6416,Stalingrad,28
+510,Millennium Actress,18
+9865,Halloween II,53
+7645,Journey 2: The Mysterious Island,No genres predicted
+8327,Take Me Home Tonight,35
+9563,The Wild,35
+519,STRAW,18
+824,Fried Green Tomatoes,18
+4333,The War of the Worlds,No genres predicted
+8899,Punisher: War Zone,"28, 80"
+9315,OSS 117: From Africa with Love,No genres predicted
+8512,Kidz,"18, 10749"
+2866,The Map of Tiny Perfect Things,35
+4181,Night of the Living Dead,53
+3797,The Abominable Dr. Phibes,No genres predicted
+3495,Kung Fu Panda Holiday,No genres predicted
+8752,Leatherheads,"18, 35"
+8374,Species,878
+4244,Halloweentown II: Kalabar's Revenge,35
+784,Knockin' on Heaven's Door,"18, 35"
+2689,The Young Victoria,18
+3302,X2,No genres predicted
+8464,Tanguy,35
+9324,Honeymoon in Vegas,35
+3960,Death Wish,"18, 53"
+1094,The Sea Inside,18
+2344,Hunger,18
+6986,The Time Machine,No genres predicted
+4194,Bad Times at the El Royale,No genres predicted
+9287,Freaks - You're One of Us,No genres predicted
+780,Mother,18
+8946,Suddenly Heaven,35
+1037,Elevator to the Gallows,No genres predicted
+2052,Becoming Jane,"18, 35, 10749"
+1673,18 Presents,18
+1168,A Few Good Men,18
+4580,Respect,18
+5890,Things to Come,"18, 35"
+4617,Goal!,"18, 35"
+9924,Stone,18
+737,The Red Balloon,18
+8912,Starsky & Hutch,35
+3958,GoldenEye,"12, 28, 53, 878"
+3001,I Confess,"18, 53"
+4735,Don Juan DeMarco,No genres predicted
+4309,The Ghost and the Darkness,No genres predicted
+4406,Thelma,No genres predicted
+5246,Beautiful Girls,18
+3065,Whatever Works,"18, 35, 10749"
+9949,Home Alone 3,No genres predicted
+4853,Julie & Julia,18
+5432,Saw II,"53, 80"
+9472,Showgirls,18
+1904,The Boss Baby: Family Business,35
+3450,Puppy Love,"35, 10749"
+1652,The Experiment,18
+8717,He's Out There,"27, 53"
+5966,Forever Young,35
+5533,The Order,"28, 53, 80"
+3003,A Tale of Two Sisters,"27, 53"
+1402,Letters from Iwo Jima,18
+9256,Cabin Fever,27
+3887,Tinker Bell,No genres predicted
+7045,Kajillionaire,18
+791,Selena,18
+2289,Missing,"18, 53"
+9168,Boo 2! A Madea Halloween,No genres predicted
+7911,High Lane,No genres predicted
+7721,Hounds of Love,No genres predicted
+8556,Nim's Island,18
+8655,Starship Troopers: Traitor of Mars,No genres predicted
+9110,Johnny Mnemonic,No genres predicted
+4113,Back to Burgundy,18
+6277,Sniper: Ultimate Kill,"28, 53"
+7621,Scooby-Doo! Curse of the Lake Monster,35
+7719,Rifkin’s Festival,"18, 35, 10749"
+594,My Life as a Zucchini,18
+2651,The Healer,18
+5712,Cold in July,No genres predicted
+3224,Red Rooms,53
+1232,X-Men: Days of Future Past,"28, 878"
+6270,Some Like It Rare,35
+2375,Chinese Take-Away,No genres predicted
+8218,Porno,No genres predicted
+52,Dou kyu sei – Classmates,35
+7096,Passing,18
+1743,The Death of Superman,878
+9571,Over Her Dead Body,35
+5972,G20,No genres predicted
+4823,"Don't Worry, He Won't Get Far on Foot",18
+6331,Thoroughbreds,35
+3227,The Dark Valley,18
+3903,Cloud 9,No genres predicted
+8502,The Tournament,28
+2480,Heidi,No genres predicted
+6030,Honest Thief,"18, 35"
+7608,Tightrope,53
+1577,Alice,No genres predicted
+3611,Le Brio,No genres predicted
+3397,Booksmart,35
+4967,Commando,28
+5719,Raise Your Voice,18
+4292,Now You See Me 2,No genres predicted
+7670,Ironclad,18
+926,Remember the Titans,18
+740,Vivre Sa Vie,18
+8893,7 Days in Entebbe,No genres predicted
+8918,The Bricklayer,"28, 53"
+5049,Hysteria,No genres predicted
+472,The Battle of Algiers,18
+8587,Solaris,"53, 878"
+8930,Four Christmases,35
+2627,The Return of the Living Dead,27
+5000,The Last Circus,No genres predicted
+7669,Trophy Wife,18
+5312,My Name Is Vendetta,No genres predicted
+7691,Under the Skin,No genres predicted
+6429,The Translators,No genres predicted
+2299,Moxie,"18, 35"
+7080,Live by Night,No genres predicted
+5955,The Simpsons in Plusaversary,35
+8863,The Campaign,No genres predicted
+8559,Retirement Home,18
+7580,The Unknown Girl,18
+3267,American Graffiti,35
+1219,From Up on Poppy Hill,18
+5070,Comet,"18, 10749"
+4955,Monte Carlo,"18, 35, 10749"
+5793,Rambo: Last Blood,No genres predicted
+6303,Wolf Creek 2,No genres predicted
+3949,Orlando,18
+4287,Any Given Sunday,35
+2788,The Fantastic 4: First Steps,No genres predicted
+3618,The Adventures of Baron Munchausen,No genres predicted
+4042,Into the White,18
+8406,Walk of Shame,18
+98,Green Book,18
+4013,Mandela: Long Walk to Freedom,18
+5682,The Perfect Secret,No genres predicted
+9973,Nine Dead,53
+4696,El Mariachi,80
+972,King Richard,18
+5736,Everybody Knows,18
+3436,Ladyhawke,No genres predicted
+1473,To Have and Have Not,18
+1754,Miss You Already,"18, 35"
+6029,Swimming Pool,18
+6371,Buzz Lightyear of Star Command: The Adventure Begins,No genres predicted
+7578,The Prodigy,"18, 27"
+3703,Stewie Griffin: The Untold Story,18
+8466,Love Is in the Air,"18, 35"
+5376,The Wonder,18
+3741,Odd Thomas,No genres predicted
+7409,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,No genres predicted
+9421,Bad Teacher,35
+4949,Jakob the Liar,18
+1510,The Phantom of Liberty,18
+3582,Homeward Bound: The Incredible Journey,No genres predicted
+3214,Gallipoli,"18, 28, 10752"
+2624,The Diary of Anne Frank,18
+9967,The 11 Commandments,No genres predicted
+6378,Porky's,35
+6011,Magic in the Moonlight,No genres predicted
+1602,Justice League: War,"12, 28, 878"
+6851,Barbershop: The Next Cut,35
+1694,The Raid,"28, 53"
+3573,Shattered Glass,18
+9361,All Hallows' Eve,27
+6549,Hackers,No genres predicted
+4433,Alienoid,No genres predicted
+2917,Heartbeats,35
+3884,Unpregnant,18
+1518,I Stand Alone,"18, 35"
+3103,Little Children,18
+258,The Second Mother,18
+5773,Wish I Was Here,18
+4630,Con Air,No genres predicted
+9499,Mute,"18, 53"
+1201,"Good Bye, Lenin!",18
+8295,Vendetta,"18, 28, 53"
+3475,The Fast and the Furious,80
+3697,Ben X,No genres predicted
+6300,Light of My Life,18
+4691,Your Friend the Rat,No genres predicted
+1857,Crossroads,No genres predicted
+3925,Death at a Funeral,"18, 35"
+121,The Apartment,35
+9015,Cutthroat Island,12
+2059,Extraction,"28, 53"
+8636,12 Rounds,80
+6767,Vampire Academy,14
+4685,Mission: Impossible III,"28, 53"
+1974,House,No genres predicted
+3886,Creepshow,No genres predicted
+381,Me Before You,No genres predicted
+5717,I Don't Feel at Home in This World Anymore,No genres predicted
+3962,The Sweet Hereafter,18
+2540,Love at First Sight,"18, 10749"
+4647,Alaska,"18, 35, 10749"
+7010,Deathgasm,No genres predicted
+2536,Beverly Hills Cop,35
+2124,Run Lola Run,35
+3728,The Tin Drum,18
+7534,Passport to Paris,"18, 35, 10749"
+7910,Man of Tai Chi,18
+6422,Freelance,"28, 53"
+3564,Saltburn,No genres predicted
+2991,Miracle,35
+8700,Destroyer,No genres predicted
+7996,Suck Me Shakespeer 3,35
+2771,The Wrong Man,No genres predicted
+6693,Friday After Next,35
+9193,The Colony,"28, 878"
+6627,Take This Waltz,"18, 35, 10749"
+2869,Belle,18
+5181,Bad Boys II,"28, 53, 80"
+1994,21 Grams,18
+6255,What Women Want,35
+8776,Kung Fu Yoga,"12, 35"
+8316,Get Him to the Greek,35
+2583,Romanzo Criminale,"18, 80"
+9846,Nurse 3-D,53
+9548,Universal Soldier: Day of Reckoning,"18, 28, 53"
+4159,My Old Ass,18
+5750,The Water Horse,No genres predicted
+2594,300,18
+9371,The Box,18
+9670,Snakes on a Plane,"28, 53, 80"
+7984,Mais qui a tué Pamela Rose ?,"53, 80, 9648"
+6156,Private Parts,18
+2557,Babette's Feast,18
+1321,Hero,18
+4374,House of Games,No genres predicted
+7165,Captain Underpants: The First Epic Movie,35
+2090,The Roundup,53
+9447,Taxi 4,80
+3961,XXY,18
+7712,CHiPS,18
+6437,Annabelle Comes Home,27
+7610,The Decline,No genres predicted
+7653,TMNT,No genres predicted
+7615,The Girl in the Spider's Web,"28, 53"
+7908,Top Five,35
+7178,Sting,No genres predicted
+7780,Anatomy,"18, 53"
+6607,The Myth,No genres predicted
+6926,"No Retreat, No Surrender",18
+9271,Reindeer Games,80
+9491,My Bloody Valentine,18
+3802,Swiss Army Man,No genres predicted
+4085,Barfly,18
+2843,Angel Heart,18
+3191,Kiss of the Spider Woman,18
+3316,Batman: Bad Blood,No genres predicted
+9413,Amusement,"53, 80"
+7316,Centurion,No genres predicted
+3947,Flash Point,"28, 53, 80"
+6248,Gorgeous,10749
+9158,Paranoia,No genres predicted
+3934,Kon-Tiki,18
+8039,Transcendence,878
+1749,Falling Down,No genres predicted
+6981,The Air I Breathe,18
+4722,Oliver Twist,No genres predicted
+9676,Look Who's Talking Too,18
+399,Three Colors: Red,No genres predicted
+6233,Casanova,"18, 10749"
+7042,Little Buddha,18
+5279,Man of Steel,"12, 14, 28, 878"
+7256,Roommates Wanted,No genres predicted
+8231,The Last House on the Left,No genres predicted
+3804,Infernal Affairs III,18
+6357,Ong Bak 2,"18, 28"
+3740,Pearl Harbor,18
+9996,Final Girl,No genres predicted
+4249,Terrifier 3,No genres predicted
+4701,Dragon Ball Z: Broly - Second Coming,878
+8279,Austin Powers in Goldmember,"28, 35"
+4205,Year of the Dragon,"18, 53, 80"
+8913,Father Figures,35
+4621,Black Mirror: Bandersnatch,"18, 53"
+9008,Frenemies,"35, 10749"
+5325,The Flash,"12, 28, 878"
+6518,War,"28, 53, 80"
+9722,Serial Teachers,35
+4466,Captain Marvel,878
+7697,xXx: Return of Xander Cage,No genres predicted
+949,All About My Mother,18
+416,Return of the Jedi,28
+9820,Loser,"18, 35"
+1401,Gilda,35
+2795,Queen & Slim,18
+3106,Mean Streets,"18, 10749"
+7179,Assassination Nation,18
+375,Guardians of the Galaxy Vol. 3,"12, 28"
+1798,Love & Basketball,"18, 35"
+1149,Jules and Jim,18
+5389,Batman: The Killing Joke,No genres predicted
+28,Psycho,18
+6483,The 33,18
+9044,Maximum Risk,"28, 53, 80"
+2677,Clifford the Big Red Dog,"18, 35"
+845,Inherit the Wind,18
+5729,True Crime,No genres predicted
+3,The Godfather Part II,18
+205,Eternal Sunshine of the Spotless Mind,35
+6379,Accepted,35
+157,Black Clover: Sword of the Wizard King,"12, 14"
+9776,Hellraiser: Inferno,No genres predicted
+6836,Executive Decision,53
+4369,Win Win,"18, 35"
+7849,3 Days to Kill,18
+3438,Dolemite Is My Name,18
+8037,Into the Storm,No genres predicted
+6653,Albert Nobbs,18
+5691,Joy,18
+5393,Ben Is Back,18
+2697,Matilda,No genres predicted
+6442,The Last Mercenary,28
+243,A Taxi Driver,18
+6942,Muppets Most Wanted,35
+1831,Pickup on South Street,No genres predicted
+2918,Death and the Maiden,18
+7416,The Mothman Prophecies,No genres predicted
+5344,Infested,No genres predicted
+6713,Godzilla,28
+1216,The Bad Guys,"28, 35"
+4612,Venom: Let There Be Carnage,No genres predicted
+3568,Dante's Inferno: An Animated Epic,No genres predicted
+664,The Ten Commandments,18
+9094,Bratz,35
+9070,Killshot,53
+2247,My Name Is Nobody,No genres predicted
+8305,The Key,18
+3777,Middle School: The Worst Years of My Life,35
+3386,The Fly,No genres predicted
+8403,Dark Phoenix,"12, 28, 878"
+1314,The Man Who Copied,18
+8293,The Woman in the Window,"18, 53"
+238,Rashomon,18
+5503,Troll,No genres predicted
+1567,Malena,"18, 10749"
+1855,On the Basis of Sex,18
+5673,The Giver,18
+2300,Every Day,"18, 10749"
+4832,Abigail,53
+5515,The Place Promised in Our Early Days,No genres predicted
+6551,The Boogeyman,"18, 27"
+5776,The Running Man,"28, 53"
+1549,One Piece Film: Strong World,12
+6291,Things to Do in Denver When You're Dead,53
+6274,Arachnophobia,No genres predicted
+2829,Tora! Tora! Tora!,18
+6222,Love,18
+3104,The Light Between Oceans,18
+8795,When the Bough Breaks,"18, 53"
+8317,Georgia Rule,18
+7379,Hypnotic,"53, 9648"
+4150,The Pink Panther Strikes Again,35
+4358,Four Brothers,No genres predicted
+8902,The Object of My Affection,"18, 35, 10749"
+905,Iron Man,No genres predicted
+6766,Polar,"28, 53"
+3678,Lean on Pete,35
+226,Purple Hearts,18
+8741,A Perfect Plan,"18, 35, 10749"
+870,The Gentlemen,No genres predicted
+9052,French Women,"18, 10749"
+3050,The Woman Next Door,18
+7320,Body Cam,"27, 53, 9648"
+925,Batman and Superman: Battle of the Super Sons,"12, 28, 878"
+1512,Sonic the Hedgehog 2,No genres predicted
+7856,Wingwomen,"35, 80"
+8915,Marauders,"28, 53, 80"
+1737,Interstate 60,"18, 35"
+1671,Repulsion,18
+2464,Shin Godzilla,28
+9481,Good on Paper,"18, 35, 10749"
+3383,The Killing of a Sacred Deer,18
+1634,Doctor Strange,18
+3311,Benny & Joon,"18, 10749"
+1127,Yu-Gi-Oh!: The Dark Side of Dimensions,18
+7876,Expend4bles,"28, 35"
+3325,Barbie of Swan Lake,14
+9406,The Owners,"27, 53"
+2036,Dazed and Confused,"18, 35"
+2285,Forbidden Planet,878
+9678,American Pie Presents: Band Camp,35
+2584,Watership Down,No genres predicted
+4497,Against the Ice,No genres predicted
+5377,Big Bad Wolves,"53, 80"
+6739,Rabid,18
+8299,Everyone's Hero,No genres predicted
+5329,Kaamelott: The First Chapter,No genres predicted
+534,Lisbela and the Prisoner,"18, 35, 10749"
+4741,The Boys from Brazil,No genres predicted
+897,All the President's Men,18
+1433,The Taking of Pelham One Two Three,"18, 53"
+6415,His House,18
+4214,Hang 'em High,No genres predicted
+734,Marriage Story,18
+5248,Den of Thieves 2: Pantera,"28, 80"
+7955,Police Academy 2: Their First Assignment,35
+7118,The Ruthless,18
+7898,I Saw the TV Glow,No genres predicted
+1055,Apocalypto,No genres predicted
+2467,Bound,53
+4959,Worth,18
+3685,The Mummy,No genres predicted
+6688,Battle,18
+1489,Star Wars: Episode III - Revenge of the Sith,No genres predicted
+8844,Antigang,35
+5208,Veronica Guerin,18
+7061,Promised Land,18
+6253,One Fine Day,35
+7807,Two Evil Eyes,No genres predicted
+3487,Sinbad: Legend of the Seven Seas,12
+1689,3096 Days,18
+8416,Emmanuelle,35
+8326,Batman v Superman: Dawn of Justice,"12, 16, 28, 878"
+4484,The Restaurant,No genres predicted
+2589,Labyrinth of Lies,18
+156,Persona,18
+2509,To the Bone,18
+4965,The Loved Ones,No genres predicted
+9920,Diary of a Wimpy Kid: The Long Haul,35
+4383,The Princess,No genres predicted
+1269,Days of Heaven,18
+4825,Enough Said,"18, 35"
+5414,Kinsey,18
+2529,Funny Girl,18
+7676,My Life in Ruins,No genres predicted
+4404,Presumed Innocent,53
+7917,American Ultra,"28, 53"
+648,The Last Laugh,No genres predicted
+1865,A Walk in the Clouds,18
+1129,Treasure Planet,12
+1403,Lucky Number Slevin,"18, 53"
+2523,The Wing or the Thigh?,No genres predicted
+2574,The Captain,18
+4503,Look Who's Back,"18, 35"
+5464,Lethal Weapon 4,"18, 53"
+311,Cruella,18
+6019,Oculus,"53, 80"
+7467,Melinda and Melinda,18
+8405,10 Days with Dad,35
+6092,Surf's Up,18
+9915,211,"18, 28"
+31,Gabriel's Inferno,18
+2441,The Man from the Future,18
+5816,The Voyeurs,18
+7244,Just Cause,"18, 53"
+1637,Y Tu Mamá También,"18, 35"
+3592,God Bless America,No genres predicted
+2409,Tell No One,"18, 53"
+134,Investigation of a Citizen Above Suspicion,"18, 80"
+5517,The Children Act,18
+249,Ne Zha 2,No genres predicted
+2217,Vampyr,No genres predicted
+1515,Nebraska,No genres predicted
+4584,Thor,"12, 28, 878"
+1964,Now You See Me,"28, 35, 80"
+8290,The Seventh Sign,No genres predicted
+1120,Moon,No genres predicted
+64,Sunset Boulevard,"18, 35"
+7095,Loving Adults,"18, 53, 10749"
+6259,High Anxiety,53
+8772,The Hitcher,18
+2538,After the Storm,18
+1397,Thesis,No genres predicted
+984,The Last Picture Show,"18, 35"
+4223,Piranhas,18
+9655,Spanish Affair 2,"35, 10749"
+1279,Breathless,No genres predicted
+8398,Voyagers,878
+4273,The Parallax View,No genres predicted
+9615,Tusk,35
+9577,Tremors 5: Bloodlines,28
+39,Lucy Shimmers and the Prince of Peace,No genres predicted
+191,Prisoners,18
+8009,Stuart Little,No genres predicted
+3541,The Host,No genres predicted
+5351,Inferno,18
+3667,Hawaiian Vacation,No genres predicted
+5571,The Kindergarten Teacher,18
+9332,White Girl,"35, 10749"
+8669,The Virtuoso,53
+9604,The Transporter Refueled,"28, 53, 80"
+9366,Godzilla,No genres predicted
+7633,The Change-Up,"18, 35"
+6523,Can You Keep a Secret?,18
+8002,Lost Girls,No genres predicted
+3745,As Tears Go By,10749
+336,Trainspotting,18
+5889,Rolling to You,"18, 35"
